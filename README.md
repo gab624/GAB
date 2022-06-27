@@ -3,7 +3,8 @@ Due to the size limit of GitHub, the code and all the datasets used can be found
 https://osf.io/9w7ks/?view_only=c96e5611809845568b8c0d81acdb2b46
 
 
-##Requirements: 
+##Requirements:  ##
+
   Python 3.6
   Tensorflow r1.0.1
   CUDA 7.5+
