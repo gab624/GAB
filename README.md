@@ -14,7 +14,7 @@ Due to the size limit of GitHub, the code and all the datasets used can be found
 All the defult parameters are listed in 'train.py' inside the SeqGAN folder. To train SeqGAN, run
 
 
-'$ python train.py'
+' $ python train.py '
 
 
 The generated data should appear inside the 'save' folder, which can be used to further fine-tune HateBERT. 
